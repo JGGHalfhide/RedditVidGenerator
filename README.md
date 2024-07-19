@@ -72,6 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [pyperclip](https://pypi.org/project/pyperclip/)
 - [Reddit](https://www.reddit.com/)
-```
-
-Feel free to modify any part of this README to better suit your project or add any additional details you find necessary.
